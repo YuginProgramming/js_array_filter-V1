@@ -1,0 +1,11 @@
+div {
+    display: flex;
+    padding: 30px;
+    background-color: bisque;
+    font-size: 30px;
+    border: solid 1px;
+    border-color: azure;
+    align-items: center;
+    
+}
+
